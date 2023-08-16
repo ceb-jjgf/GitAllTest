@@ -2,6 +2,7 @@ hello git
 test git order
 update merge thirdbranch 20230817——1：46
 new branch local
+update code to merge into develop from feature/testNewBranch 2：43
 write a line to test pull order
 
 insert new line to temp!
